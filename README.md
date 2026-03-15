@@ -46,6 +46,8 @@ AIC has run 1,000+ events over three years. We know how to get humans in rooms t
 | Community Partner Kit | Templates to recruit local co-hosts | [`/sponsorship`](./sponsorship) |
 | Marketing Assets | Social copy, email templates, brand assets | [`/marketing`](./marketing) |
 | Facilitation Tips | How to moderate a great AI conversation | [`/content/facilitation-tips.md`](./content/facilitation-tips.md) |
+| AI Prompt Library | 10 copy-paste prompts to generate localized content with AI | [`/ai-prompts`](./ai-prompts) |
+| FAQ | Answers to every common question | [`FAQ.md`](./FAQ.md) |
 
 ### Quick start
 
