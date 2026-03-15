@@ -91,6 +91,42 @@ All master documents live in Google Drive. These are the canonical versions main
 
 ---
 
+## Pending assets
+
+These items are in progress and will be added to this repo as they're completed. If you're a team member, check this list before asking "what do I need to do?"
+
+| # | Asset | Owner | Status | Notes |
+|---|-------|-------|--------|-------|
+| 1 | HAIW logo (dark + light) | @Noah Frank | **NOT STARTED** | Needed for all materials — blocks social graphics |
+| 2 | Event banner image (hero) | @Noah Frank | **NOT STARTED** | For README, website, social |
+| 3 | S-05 Chapter Event Square (Canva template) | @Noah Frank @AJ Green | **HIGHEST PRIORITY** | Chapter leads need this to promote locally |
+| 4 | S-01 LinkedIn Announcement Card | @Noah Frank | **NOT STARTED** | |
+| 5 | S-02 Countdown Squares | @Noah Frank | **NOT STARTED** | |
+| 6 | S-03 X/Twitter Banner | @Noah Frank | **NOT STARTED** | |
+| 7 | S-04 X/Twitter Post Cards | @Noah Frank | **NOT STARTED** | |
+| 8 | N-01 Newsletter Header Banner | @Noah Frank | **NOT STARTED** | |
+| 9 | N-02 Inline Feature Card | @Noah Frank | **NOT STARTED** | |
+| 10 | N-03 Email Signature Banner | @Noah Frank | **NOT STARTED** | 600x100px — for chapter leads' email signatures |
+| 11 | P-01 Press Kit Header | @Noah Frank | **NOT STARTED** | |
+| 12 | P-02 Stats Infographic | @Noah Frank | **NOT STARTED** | |
+| 13 | P-03 Paid Ad Units | @Noah Frank | **NOT STARTED** | Animated GIF specs in [Graphics Briefs (G-04)](https://docs.google.com/document/d/1of5mj9JWfWJIleyQSDWwf5zqRYGJdDR3/edit) |
+| 14 | P-04 Partner Badge (3 variants) | @Noah Frank | **NOT STARTED** | Chapter Host / Community Partner / Global Partner |
+| 15 | Brand colors + typography | @Noah Frank @AJ Green | **NOT STARTED** | Blocks brand-guidelines.md completion |
+| 16 | Landing page update (new name + one-liner) | @Chappy Asel | **NOT STARTED** | humansinaiweek.com |
+| 17 | /partnership splash page | @Chappy Asel | **NOT STARTED** | Form intake → redirect URL |
+| 18 | /community page | @Chappy Asel | **NOT STARTED** | |
+| 19 | Global virtual event platform | @Catherine McMillan @Yauvan | **NOT STARTED** | Confirm and test by May 1 |
+| 20 | Post-event report submission form | TBD | **NOT STARTED** | Google Form or Typeform — linked from post-event-report-template.md |
+| 21 | Luma global calendar | @Catherine McMillan | **IN PROGRESS** | Chapters registering events |
+| 22 | Speaker notes / slide decks per track | TBD | **NOT STARTED** | Optional — in `content/speaker-notes/` |
+| 23 | Translations (priority languages) | TBD | **NOT STARTED** | Spanish, Portuguese, French, Arabic, Mandarin |
+
+**Design briefs for items 1–14** are in the [Graphics Briefs doc (G-04)](https://docs.google.com/document/d/1of5mj9JWfWJIleyQSDWwf5zqRYGJdDR3/edit). Priority order and file naming conventions included.
+
+Once assets are delivered, they'll be added to `assets/` and `marketing/brand/assets/` and the relevant docs will be updated with links.
+
+---
+
 ## For partners
 
 Interested in sponsoring or partnering with Humans in AI Week?
