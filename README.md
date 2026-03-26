@@ -27,10 +27,35 @@ AIC has run 1,000+ events over three years. We know how to get humans in rooms t
 | Parameter | Detail |
 |-----------|--------|
 | **Dates** | June 1–7, 2026 |
-| **Format** | Chapter-led: panel, roundtable, or open discussion. 2–3 hours. |
-| **Scale** | 200+ cities, 50+ countries, 50–200 attendees per event |
+| **Formats** | 6 day-specific formats: Demo Night, Research Roundtable, Discussion Meetup, Dinner, Workshop, Hackathon |
+| **Scale** | 200+ cities, 50+ countries, 15–200 attendees per event |
 | **Virtual** | Livestream component for chapters without a local venue |
 | **Website** | [humansinaiweek.com](https://humansinaiweek.com) |
+
+---
+
+## AI agent entry point
+
+**Using an AI agent to plan your event?** Start here: [`CLAUDE.md`](./CLAUDE.md)
+
+Give your AI agent access to this repo and point it to `CLAUDE.md`. It contains the complete instruction set — questions to ask, format selection logic, task generation, timeline building, and a full file index. Works with Claude, ChatGPT, Gemini, or any AI assistant.
+
+---
+
+## Event formats
+
+Every HAIW event uses one of six formats. Pick the one that fits your community.
+
+| Day | Format | Duration | Best For | Guide |
+|-----|--------|----------|----------|-------|
+| Monday | **Demo Night** | 2.5h | Builder communities, tech chapters | [`formats/monday-demo-night/`](./formats/monday-demo-night/) |
+| Tuesday | **Research Roundtable** | 2.5h | University towns, research communities | [`formats/tuesday-research/`](./formats/tuesday-research/) |
+| Wednesday | **Discussion Meetup** | 2h | Any chapter, first-time hosts | [`formats/wednesday-discussion/`](./formats/wednesday-discussion/) |
+| Thursday | **Dinner** | 3h | Well-funded chapters, executive audiences | [`formats/thursday-dinner/`](./formats/thursday-dinner/) |
+| Friday | **Workshop** | 3h | Technical communities, hands-on learners | [`formats/friday-workshop/`](./formats/friday-workshop/) |
+| Saturday | **Hackathon** | 8h | Large tech chapters, university partnerships | [`formats/saturday-hackathon/`](./formats/saturday-hackathon/) |
+
+Not sure which format? See the [decision matrix](./formats/README.md). The day is a default — the format matters more than the day.
 
 ---
 
@@ -40,30 +65,32 @@ AIC has run 1,000+ events over three years. We know how to get humans in rooms t
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Chapter Playbook | Timeline, checklist, run-of-show, post-event reporting | [`/chapter-playbook`](./chapter-playbook) |
-| Discussion Guides | 6 ready-to-use session tracks with moderator prompts | [`/content/discussion-guides`](./content/discussion-guides) |
+| AI Agent Instructions | Give this to your AI agent — it plans your whole event | [`CLAUDE.md`](./CLAUDE.md) |
+| Event Formats | 6 formats with agendas, best practices, opening scripts | [`/formats`](./formats) |
+| Chapter Playbook | Timeline, checklist, operations guide, post-event reporting | [`/chapter-playbook`](./chapter-playbook) |
 | Local Sponsor Pitch | One-pager to close local sponsors | [`/sponsorship`](./sponsorship) |
 | Community Partner Kit | Templates to recruit local co-hosts | [`/sponsorship`](./sponsorship) |
 | Marketing Assets | Social copy, email templates, brand assets | [`/marketing`](./marketing) |
 | Facilitation Tips | How to moderate a great AI conversation | [`/content/facilitation-tips.md`](./content/facilitation-tips.md) |
-| AI Prompt Library | 10 copy-paste prompts to generate localized content with AI | [`/ai-prompts`](./ai-prompts) |
+| AI Prompt Library | 13 copy-paste prompts to generate localized content with AI | [`/ai-prompts`](./ai-prompts) |
 | FAQ | Answers to every common question | [`FAQ.md`](./FAQ.md) |
 
 ### Quick start
 
-1. Read the [Chapter Playbook](./chapter-playbook/README.md)
-2. Pick a [discussion track](./content/discussion-guides/) (or combine multiple)
-3. Secure a [local sponsor](./sponsorship/local-sponsor-pitch.md) and/or [community partner](./sponsorship/local-community-partner-kit.md)
-4. Register your event on [Luma](https://lu.ma)
-5. Promote using our [marketing templates](./marketing/)
-6. Host the event
-7. Submit your [post-event report](./chapter-playbook/post-event-report-template.md) within 48 hours
+1. Read [`CLAUDE.md`](./CLAUDE.md) (or give it to your AI agent)
+2. Pick your [event format](./formats/) (Demo Night, Research Roundtable, Discussion, Dinner, Workshop, or Hackathon)
+3. Optionally choose a [topic track](./content/discussion-guides/) to theme your event
+4. Secure a [local sponsor](./sponsorship/local-sponsor-pitch.md) and/or [community partner](./sponsorship/local-community-partner-kit.md)
+5. Register your event on [Luma](https://lu.ma)
+6. Promote using our [marketing templates](./marketing/)
+7. Host the event — every event opens with the [HQ Opening script](./formats/)
+8. Submit your [post-event report](./chapter-playbook/post-event-report-template.md) within 48 hours
 
 ---
 
-## Discussion tracks
+## Topic tracks (optional)
 
-Every event centers on one or more of these six tracks. Pick what resonates with your community.
+Topic tracks are optional thematic overlays that add depth to your event. Each format's best practices file recommends which tracks pair well.
 
 | Track | Description | Guide |
 |-------|-------------|-------|

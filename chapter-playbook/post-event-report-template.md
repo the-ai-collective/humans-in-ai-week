@@ -12,8 +12,10 @@ This data powers the global HAIW narrative. When we say "200 cities discussed AI
 - **City, Country**:
 - **Event date**:
 - **Venue name**:
-- **Event format** (panel / roundtable / hybrid / workshop):
-- **Discussion track(s) used**:
+- **Day of the week**:
+- **Event format** (Demo Night / Research Roundtable / Discussion Meetup / Dinner / Workshop / Hackathon):
+- **HQ Opening script read?** Yes / No
+- **Discussion track(s) used** (optional):
 
 ## Attendance
 

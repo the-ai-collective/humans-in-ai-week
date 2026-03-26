@@ -15,25 +15,31 @@ Everything you need to plan, promote, and execute your Humans in AI Week event.
 
 ## How to use this
 
-1. **Start with the Runbook** — read the full guide to understand what's expected
-2. **Follow the Timeline** — the 10-week checklist keeps you on track
-3. **Customize the Run of Show** — adapt the template to your format (panel, roundtable, open discussion)
-4. **Pick your discussion track(s)** — see [`/content/discussion-guides/`](../content/discussion-guides/)
-5. **Secure funding** — use the [Local Sponsor Pitch](../sponsorship/local-sponsor-pitch.md) to cover costs
-6. **Promote** — use our [marketing templates](../marketing/)
-7. **Report back** — submit the post-event report within 48 hours
+1. **Pick your event format** — choose from [6 day-specific formats](../formats/) (Demo Night, Research Roundtable, Discussion Meetup, Dinner, Workshop, or Hackathon)
+2. **Start with the Runbook** — read the full guide to understand what's expected
+3. **Follow the Timeline** — the 10-week checklist keeps you on track
+4. **Use your format's agenda** — each format in [`/formats/`](../formats/) has a minute-by-minute run of show
+5. **Optionally pick a topic track** — see [`/content/discussion-guides/`](../content/discussion-guides/)
+6. **Secure funding** — use the [Local Sponsor Pitch](../sponsorship/local-sponsor-pitch.md) to cover costs
+7. **Promote** — use our [marketing templates](../marketing/)
+8. **Report back** — submit the post-event report within 48 hours
 
-## Event format options
+**Using an AI agent?** Skip this and go to [`CLAUDE.md`](../CLAUDE.md) — it handles everything.
 
-HAIW events are flexible. Choose what fits your community:
+## Event formats
 
-| Format | Duration | Best for |
-|--------|----------|----------|
-| **Panel + Q&A** | 2–2.5 hours | Chapters with strong local speakers |
-| **Roundtable discussion** | 2 hours | Smaller, intimate communities |
-| **Open town hall** | 1.5–2 hours | Large groups, first-time hosts |
-| **Workshop + discussion** | 2.5–3 hours | Technical communities |
-| **Hybrid (panel + roundtable)** | 2.5–3 hours | Recommended default format |
+HAIW has 6 day-specific formats. Each has its own agenda, best practices, and opening script in [`/formats/`](../formats/).
+
+| Day | Format | Duration | Best For |
+|-----|--------|----------|----------|
+| Monday | [**Demo Night**](../formats/monday-demo-night/) | 2.5h | Builder communities, tech chapters |
+| Tuesday | [**Research Roundtable**](../formats/tuesday-research/) | 2.5h | University towns, research communities |
+| Wednesday | [**Discussion Meetup**](../formats/wednesday-discussion/) | 2h | Any chapter, first-time hosts |
+| Thursday | [**Dinner**](../formats/thursday-dinner/) | 3h | Well-funded chapters, executive audiences |
+| Friday | [**Workshop**](../formats/friday-workshop/) | 3h | Technical communities, hands-on learners |
+| Saturday | [**Hackathon**](../formats/saturday-hackathon/) | 8h | Large tech chapters, university partnerships |
+
+Not sure? See the [format decision matrix](../formats/README.md).
 
 ## Support
 

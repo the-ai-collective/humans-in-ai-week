@@ -1,5 +1,7 @@
 # Run of Show Template
 
+> **Note**: For 2026, each of the 6 HAIW formats has its own detailed agenda in [`/formats/`](../formats/). Use those instead of these generic templates. This file is kept as a reference for ground rules and legacy format examples.
+
 Adapt this to your format. Times are approximate — adjust for your event length.
 
 ---

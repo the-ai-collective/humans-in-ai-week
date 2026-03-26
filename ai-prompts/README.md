@@ -13,6 +13,8 @@ Copy-paste these prompts into ChatGPT, Claude, or any AI assistant to generate c
 
 ## Prompts
 
+> **Using an AI agent with repo access?** [`CLAUDE.md`](../CLAUDE.md) handles all of this automatically — it generates customized content based on your format, city, and timeline. These standalone prompts are for when you want to generate content piece by piece.
+
 | # | Prompt | What it generates |
 |---|--------|-------------------|
 | 1 | [Localize your sponsor pitch](#1-localize-your-sponsor-pitch) | Customized one-pager for local businesses |
@@ -25,6 +27,9 @@ Copy-paste these prompts into ChatGPT, Claude, or any AI assistant to generate c
 | 8 | [Generate a sponsor recap](#8-generate-a-sponsor-recap) | Post-event report for your sponsors |
 | 9 | [Create a community partner pitch](#9-create-a-community-partner-pitch) | Outreach email for local organizations |
 | 10 | [Write a newsletter announcement](#10-write-a-newsletter-announcement) | Email blast for your chapter mailing list |
+| 11 | [Write a demo call for presenters](#11-write-a-demo-call-for-presenters) | Submission form copy + outreach for Demo Night |
+| 12 | [Create hackathon theme + judging criteria](#12-create-hackathon-theme--judging-criteria) | Theme framing, challenge prompts, and judging rubric |
+| 13 | [Draft a workshop curriculum outline](#13-draft-a-workshop-curriculum-outline) | Session plan, tool selection rationale, pre-event email |
 
 ---
 
@@ -41,7 +46,7 @@ My event details:
 - Date: EVENT_DATE
 - Venue: VENUE_NAME (or "still looking for a venue" if you want them to host)
 - Expected attendees: EXPECTED_ATTENDANCE
-- Format: FORMAT (panel / roundtable / hybrid discussion)
+- Format: FORMAT (Demo Night / Research Roundtable / Discussion Meetup / Dinner / Workshop / Hackathon — see formats/)
 - Discussion topic: TRACK_NAME
 
 Sponsorship ask: WHAT_YOU_NEED (e.g., "$500 to cover catering" or "venue space for 100 people" or "$1,000 for venue + food")
@@ -58,7 +63,7 @@ Generates a batch of social posts customized for your city and event.
 ```
 I'm hosting a Humans in AI Week event in CITY, COUNTRY on EVENT_DATE at VENUE_NAME. It's part of a global initiative — 200+ cities, 50+ countries, one week of public conversations about AI.
 
-My event format: FORMAT (panel / roundtable / discussion)
+My event format: FORMAT (Demo Night / Research Roundtable / Discussion Meetup / Dinner / Workshop / Hackathon)
 Discussion topic: TRACK_NAME
 Panelists (if confirmed): PANELIST_NAMES_AND_TITLES
 RSVP link: LUMA_LINK
@@ -165,7 +170,7 @@ Event details:
 - Date: EVENT_DATE
 - Time: EVENT_TIME (doors open) — EVENT_END_TIME
 - Venue: VENUE_NAME, VENUE_ADDRESS
-- Format: FORMAT (panel / roundtable / hybrid)
+- Format: FORMAT (Demo Night / Research Roundtable / Discussion Meetup / Dinner / Workshop / Hackathon)
 - Discussion topic: TRACK_NAME
 - Panelists: PANELIST_NAMES_AND_TITLES (or "to be announced")
 - Cost: Free
@@ -289,6 +294,92 @@ This is for my chapter mailing list — people who already know The AI Collectiv
 Timing: TIMING (e.g., "first announcement, 6 weeks out" or "final reminder, 2 days before")
 
 Tone: direct, warm, a little urgent. Under 200 words.
+```
+
+---
+
+## 11. Write a demo call for presenters
+
+Generates a call for demo submissions and outreach copy for Demo Night events.
+
+```
+I'm hosting a Humans in AI Week Demo Night in CITY on EVENT_DATE. I need to recruit 5–8 people to give 5-minute live demos of AI tools, projects, or workflows they've built or use daily.
+
+My event details:
+- Venue: VENUE_NAME
+- Expected attendees: NUMBER
+- Discussion topic (optional): TRACK_NAME
+- Audience: AUDIENCE_DESCRIPTION (e.g., "mostly developers" or "mixed technical and non-technical")
+
+Generate two things:
+
+1. A demo submission form description (for a Google Form or Luma add-on) that includes:
+   - What to demo (tool, project, workflow — anything AI-related)
+   - Demo format (5 minutes live, no slides, show the thing working)
+   - Technical requirements (will there be Wi-Fi? Screen sharing? HDMI?)
+   - Deadline to submit: DEADLINE
+
+2. A short outreach message (under 100 words) I can send to local builders, developers, and AI practitioners to recruit demos. Make it specific to my city and audience. Tone: casual, builder-to-builder, not corporate.
+```
+
+---
+
+## 12. Create hackathon theme + judging criteria
+
+Generates a theme framing, challenge prompts, and judging rubric for Hackathon events.
+
+```
+I'm hosting a Humans in AI Week Hackathon in CITY on EVENT_DATE. It's an 8-hour build day — teams form in the morning, hack all day, present at the end.
+
+My event details:
+- Venue: VENUE_NAME
+- Expected participants: NUMBER
+- Discussion topic (optional): TRACK_NAME
+- Local context: LOCAL_CONTEXT (e.g., "our city has a big healthcare industry" or "lots of university students" or "growing climate tech scene")
+- Prizes: PRIZES (e.g., "$500 first place" or "no cash prizes, recognition only" or "TBD")
+- Sponsor: SPONSOR_NAME (or "none yet")
+
+Generate:
+
+1. A hackathon theme (one sentence) that connects the HAIW mission to my local context
+2. Three challenge prompts — specific problems teams could build solutions for. Each should be:
+   - Solvable in 6 hours by a small team
+   - Connected to the theme
+   - Accessible to mixed-skill teams (not just senior engineers)
+3. Judging criteria with a scoring rubric (5 dimensions, 1–5 scale each):
+   - Impact, Creativity, Technical execution, Presentation, Theme alignment
+   - Include a one-sentence description of what a "5" looks like for each
+4. A suggested team formation process (how to help strangers form teams at the start)
+```
+
+---
+
+## 13. Draft a workshop curriculum outline
+
+Generates a session plan, tool selection rationale, and pre-event attendee email for Workshop events.
+
+```
+I'm hosting a Humans in AI Week Workshop in CITY on EVENT_DATE. It's a 3-hour hands-on session where attendees build something with AI tools.
+
+My event details:
+- Venue: VENUE_NAME
+- Expected attendees: NUMBER
+- Skill level of audience: SKILL_LEVEL (e.g., "mostly beginners" or "mixed" or "experienced developers")
+- Discussion topic (optional): TRACK_NAME
+- Tools available: TOOLS (e.g., "ChatGPT and Claude accounts" or "Python environment with API access" or "no-code tools only")
+
+Generate:
+
+1. A workshop curriculum outline with two sessions:
+   - Session 1 (45 min): Guided build — everyone follows along to create SOMETHING_SPECIFIC
+   - Session 2 (45 min): Open build — participants extend or create their own project
+   - Include timing for each segment within the sessions
+2. Tool selection rationale: why the chosen tool(s) work for this audience and skill level
+3. A pre-event email to attendees (under 150 words) that tells them:
+   - What to install or set up before arriving
+   - What skill level is expected (reassure beginners)
+   - What they'll walk away with
+4. Three backup activities if the main tool has connectivity issues
 ```
 
 ---

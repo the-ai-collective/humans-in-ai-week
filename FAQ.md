@@ -16,7 +16,7 @@ June 1–7, 2026. Your event can be on any day during that week.
 
 ### How long should my event be?
 
-2–3 hours. See the [Run of Show templates](./chapter-playbook/run-of-show-template.md) for three format options (2h, 2.5h, 3h).
+It depends on your format. Discussion Meetup is 2 hours, Demo Night and Research Roundtable are 2.5 hours, Dinner and Workshop are 3 hours, and Hackathon is a full 8-hour day. See [`/formats/`](./formats/) for all six formats with detailed agendas.
 
 ### Do I have to use one of the six discussion tracks?
 
@@ -64,13 +64,27 @@ Luma is the event registration platform we use. Once you create your event on Lu
 
 ### What format works best?
 
-Depends on your community:
-- **Panel + Q&A** — best if you have strong local speakers
-- **Roundtable** — best for smaller, intimate groups
-- **Hybrid (panel + breakout roundtables)** — best for larger groups who want depth
-- **Workshop + discussion** — best for technical communities
+HAIW has 6 day-specific formats. Depends on your community:
+- **Demo Night** (Monday) — best for builder communities with active projects
+- **Research Roundtable** (Tuesday) — best for university towns and research communities
+- **Discussion Meetup** (Wednesday) — best for first-time hosts, smaller groups, any chapter
+- **Dinner** (Thursday) — best for well-funded chapters and executive audiences
+- **Workshop** (Friday) — best for technical communities who want to build hands-on
+- **Hackathon** (Saturday) — best for large tech chapters and university partnerships
 
-See [Format options](./chapter-playbook/README.md#event-format-options) for details.
+See the [format decision matrix](./formats/README.md) for a detailed comparison by chapter size, community type, and budget.
+
+### What if my venue is only available on a different day?
+
+No problem. The day assignments are defaults, not requirements. If your venue is only available on Wednesday but you want to run a Demo Night — do it. Use the correct format files regardless of which day you run.
+
+### What is the HQ Opening Script?
+
+Every HAIW event worldwide opens with the same 5-minute script. It connects your local event to the global movement — "right now, in 200+ cities..." Each format has its own version in `formats/{format}/hq-opening.md` with a shared opening, a format-specific bridge, and a localization prompt for you to fill in. This is non-negotiable — it's what makes HAIW feel like one global event.
+
+### Can I use AI to plan my entire event?
+
+Yes. Give your AI agent (Claude, ChatGPT, Gemini, etc.) access to this repo and point it to [`CLAUDE.md`](./CLAUDE.md). It contains a complete instruction set for generating your task list, timeline, and customized materials. The [AI Prompt Library](./ai-prompts/README.md) also has 13 standalone prompts if you prefer to generate content piece by piece.
 
 ### How do I find panelists?
 

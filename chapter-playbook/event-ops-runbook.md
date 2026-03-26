@@ -6,14 +6,14 @@
 
 This is your complete guide to hosting a Humans in AI Week event in your city. Every AIC chapter is expected to host one public event during June 1–7, 2026.
 
-**What you're hosting**: A 2–3 hour public event — panel, roundtable, or open discussion — centered on one or more of the six HAIW discussion tracks.
+**What you're hosting**: A public event using one of 6 formats — Demo Night, Research Roundtable, Discussion Meetup, Dinner, Workshop, or Hackathon. See [`/formats/`](../formats/) for detailed agendas and best practices for each.
 
 **Your goal**: Get 50–200 people in a room having a real conversation about AI. Not a lecture. Not a pitch. A conversation.
 
 ## Your responsibilities as chapter lead
 
 - [ ] Secure a venue (free or sponsor-covered)
-- [ ] Choose your event format and discussion track(s)
+- [ ] Choose your [event format](../formats/) and optionally a [topic track](../content/discussion-guides/)
 - [ ] Recruit 2–4 panelists or discussion facilitators
 - [ ] Register your event on Luma
 - [ ] Promote locally using provided marketing assets
@@ -47,6 +47,8 @@ This is your complete guide to hosting a Humans in AI Week event in your city. E
 | A/V equipment | $0–$300 | Venue-provided or sponsor |
 | Marketing/printing | $0–$100 | Optional |
 | **Total** | **$200–$1,700** | **Target: 100% sponsor-covered** |
+
+**Format-specific costs**: Discussion Meetup can run at $0–200. Demo Night, Research Roundtable, and Workshop: $200–500. Dinner: $500–3,000 (highest per-person cost). Hackathon: $800–3,000 (full-day venue + catering). See each format's `best-practices.md` for detailed budget notes.
 
 ## Panelist / speaker recruitment
 
