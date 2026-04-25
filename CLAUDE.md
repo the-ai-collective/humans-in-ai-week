@@ -24,10 +24,13 @@ Start by asking:
 | File | Purpose |
 |------|---------|
 | [`event/format.md`](./event/format.md) | Full event format, agenda, setup requirements |
+| [`event/timeline.md`](./event/timeline.md) | 6-week pre-event countdown checklist |
 | [`event/run-of-show.md`](./event/run-of-show.md) | Day-of timeline template |
 | [`presentation/slides.md`](./presentation/slides.md) | Presentation link + 2-slide customization guide |
 | [`content/questions.md`](./content/questions.md) | HQ discussion questions + chapter customization |
 | [`content/facilitation-guide.md`](./content/facilitation-guide.md) | How to run breakout groups |
+| [`marketing/attendee-invite.md`](./marketing/attendee-invite.md) | Email, DM, and event listing templates |
+| [`marketing/social-copy.md`](./marketing/social-copy.md) | Ready-to-post LinkedIn copy |
 | [`sponsorship/pitch.md`](./sponsorship/pitch.md) | Local sponsor pitch script |
 | [`sponsorship/outreach.md`](./sponsorship/outreach.md) | Sponsor outreach email templates |
 | [`partnership/scripts.md`](./partnership/scripts.md) | Partnership pitch scripts |

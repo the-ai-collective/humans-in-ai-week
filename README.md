@@ -23,9 +23,12 @@ This repo is your event kit. Everything you need to host a Discussion Night in y
 ### Quick start
 
 1. **Read** [`event/format.md`](./event/format.md) — the full format, agenda, and what to prepare
-2. **Review** [`presentation/slides.md`](./presentation/slides.md) — customize 2 slides with local context
-3. **Fund it** [`sponsorship/pitch.md`](./sponsorship/pitch.md) — how to find a local sponsor to cover venue + food
-4. **Run it** [`event/run-of-show.md`](./event/run-of-show.md) — your day-of guide
+2. **Plan** [`event/timeline.md`](./event/timeline.md) — 6-week countdown checklist
+3. **Review** [`presentation/slides.md`](./presentation/slides.md) — customize 2 slides with local context
+4. **Fund it** [`sponsorship/pitch.md`](./sponsorship/pitch.md) — how to find a local sponsor to cover venue + food
+5. **Invite people** [`marketing/attendee-invite.md`](./marketing/attendee-invite.md) — email, DM, and event listing templates
+6. **Promote** [`marketing/social-copy.md`](./marketing/social-copy.md) — ready-to-post LinkedIn copy
+7. **Run it** [`event/run-of-show.md`](./event/run-of-show.md) — your day-of guide
 
 ### Optional
 - [`app/README.md`](./app/README.md) — conversation-prompter app for displaying discussion questions on screen
