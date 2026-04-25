@@ -1,6 +1,6 @@
 # Humans in AI Week
 
-**June 1–7, 2026 | 200+ cities | 50+ countries**
+**June 1–7, 2026 | 100+ cities | 50+ countries**
 
 > The largest coordinated civilian conversation about AI ever organized.
 
@@ -42,6 +42,6 @@ This repo is your event kit. Everything you need to host a Discussion Night in y
 
 ## About
 
-[The AI Collective](https://aicollective.com) is the world's largest AI community — 250,000+ members across 200 chapters in 50+ countries. Humans in AI Week is our first globally coordinated public event.
+[The AI Collective](https://aicollective.com) is the world's largest AI community — 250,000+ members across 100+ chapters in 50+ countries. Humans in AI Week is our first globally coordinated public event.
 
 [aicollective.com](https://aicollective.com) | [humansinaiweek.com](https://humansinaiweek.com) | [hiai.com](https://hiai.com)

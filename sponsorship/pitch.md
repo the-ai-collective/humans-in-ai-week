@@ -18,7 +18,7 @@ In exchange, they get:
 - Recognition as the local sponsor at the event (verbal + name tag)
 - Logo in local event promotion
 - Presence at the event (they can send team members, set up a table if appropriate)
-- Association with a global week of events across 200+ cities
+- Association with a global week of events across 100+ cities
 
 ---
 
@@ -26,7 +26,7 @@ In exchange, they get:
 
 Use this when talking to a potential sponsor:
 
-> "We're hosting a Humans in AI Week event here in [city] on [date] — it's part of a global week of simultaneous AI conversations happening in 200+ cities. We're expecting [X] people — [describe your audience: founders, researchers, operators, etc.].
+> "We're hosting a Humans in AI Week event here in [city] on [date] — it's part of a global week of simultaneous AI conversations happening in 100+ cities. We're expecting [X] people — [describe your audience: founders, researchers, operators, etc.].
 >
 > We're looking for a local partner to cover [venue / food and drinks]. The budget is roughly [amount]. In exchange, we'd recognize you as the local sponsor at the event and in all our local promotion.
 >
